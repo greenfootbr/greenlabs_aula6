@@ -1,4 +1,4 @@
-# GreenLabs Aula #6 - Runner Cat! O gato maratonista
+# GreenLabs Aula #6 - Movimentos sincronizados! a mágica do operador módulo (%)
 Esta é a aula #6 da Série GreenLabs/GreenfootBR/DFJUG. 
 Nesta aula nós vamos mostrar alguns truques que existem dentro de um jogo para controlar a velocidade de atualização dos movimentos, ao final da aula teremos os movimentos do mundo e do personagem totalmente sincronizados.
 
