@@ -5,7 +5,7 @@ Nesta aula nós vamos mostrar alguns truques que existem dentro de um jogo para 
 
 ## Conteúdo | Summary
 * Inttrodução ao uso de ciclos dentro do jogo;
-* Utilização de operações com módulos para encontrar sinais de ação dentro do jogo;
+* Utilização de operações com o operador de módulo para encontrar sinais de ação dentro do jogo;
 * Uso de métodos de um objeto dentro do outro (pequena interação entre objetos);
 
 ## Equipe | Team
