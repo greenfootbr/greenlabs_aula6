@@ -8,6 +8,9 @@ Nesta aula nós vamos mostrar alguns truques que existem dentro de um jogo para 
 * Utilização de operações com o operador de módulo para encontrar sinais de ação dentro do jogo;
 * Uso de métodos de um objeto dentro do outro (pequena interação entre objetos);
 
+## Vídeo Aula
+* [Assista ao vídeo desta aula](https://www.youtube.com/watch?v=QZF4rzgQNoM)
+
 ## Equipe | Team
 
 * Daniel de Oliveira
